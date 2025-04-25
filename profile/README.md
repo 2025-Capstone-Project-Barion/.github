@@ -1,10 +1,10 @@
-# 베리온 (Barion) - 배리어프리 스마트 키오스크 솔루션
+# 배리온(Barion): On-Device AI 기반 스마트 배리어프리 키오스크 플렛폼
 
 <p align="center">
-  <img src="/api/placeholder/400/200" alt="Barion 로고" />
+  <img src="https://github.com/user-attachments/assets/8c6ed691-0644-4573-b026-5e5ca578b488" alt="Barion 로고" width="100"/>
 </p>
 
-> **Barrier-Free + Innovation(혁신): 배리어프리를 넘어 AI 기반의 더 스마트한 혁신적 솔루션**
+> **Barrier-Free + Innovation(혁신): 배리어프리를 넘어 On-Device AI 기반의 더 스마트한 혁신적 솔루션**
 
 ## 2025 캡스톤 프로젝트
 - **개발자**: 2071449 이원준
