@@ -124,9 +124,9 @@
 
 ![image](https://github.com/2025-Capstone-Project-Barion/.github/blob/d86e69fece3e61460e0f5028e1083c07c0d8e1a0/assets/erd.png)
 
-## 📑 페이지 상세 내역
+## 📑 적용 기술 및 구조
 
-<img alt="image" src="https://github.com/2025-Capstone-Project-Barion/.github/blob/d86e69fece3e61460e0f5028e1083c07c0d8e1a0/assets/erd.png">
+<img alt="image" src="https://github.com/2025-Capstone-Project-Barion/.github/blob/397694070e83494b813e03f8d15964043c971a12/assets/structure.png">
 
 ## 🌟 화면 구성
 
