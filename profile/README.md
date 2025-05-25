@@ -6,6 +6,151 @@
 
 > **Barrier-Free + Innovation(혁신): 배리어프리를 넘어 On-Device AI 기반의 더 스마트한 혁신적 솔루션**
 
+## 📋 프로젝트 개요
+
+### 문제 제기
+2025년 1월 28일부로 시행된 배리어프리 키오스크 설치 의무화(장애인차별금지법 개정)에 따라 소상공인들은 상당한 경제적 부담을 겪고 있습니다. 일반 키오스크 대비 최대 3배까지 비싼 가격(약 800만원), 낮은 제도 인지도, 그리고 실효성에 대한 의문으로 소상공인들의 고충이 커지고 있습니다.
+
+기존에 인건비 절감과 운영 효율성 강화를 위해 키오스크를 도입했지만, 현재는 "굳이 키오스크를 사용할 필요가 없다"는 의견이 많아지고 있는 상황입니다. 실제로 소상공인의 85% 이상이 변경 의무화에 대해 인지하지 못하고 있으며, 비용부담과 교체 과정의 불편함이 큰 문제가 되고 있습니다.
+
+### 프로젝트 목표
+본 프로젝트는 소상공인의 부담을 줄이면서도 접근성이 강화된 배리어프리 스마트 키오스크를 개발하는 것을 목표로 합니다.
+
+기기의 전면 교체 없이, 간단한 모듈 교체 및 소프트웨어 업데이트만으로 기존 키오스크를 배리어프리 키오스크로 변환할 수 있는 솔루션을 제공합니다.
+
+## 🌬️ About Project
+
+> ### 당신이 느끼는 모든 감정을 아휴에 풀어주세요. 들려준 당신의 하루로 그림 일기를 그려드려요. <br /> 하루 하루의 그림 일기를 저장해 기분 달력을 완성해 보세요. 맞춤 추천 상점도 준비되어 있습니다.
+>
+> ### 📅 개발 일정
+
+| 단계 | 기간 | 내용 |
+|------|------|------|
+| 기획 및 요구사항 분석 | 2025.03 - 2025.04 | 시장 조사, 사용자 요구사항 분석, 기술 검토 |
+| 설계 | 2025.04 - 2025.05 | 시스템 아키텍처 설계, UI/UX 디자인, DB 설계 |
+| 개발 | 2025.05 - 2025.09 | 하드웨어 구성, 소프트웨어 개발, AI 모델 구현 |
+| 테스트 | 2025.09 - 2025.10 | 단위 테스트, 통합 테스트, 사용자 테스트 |
+| 배포 및 실증 | 2025.10 - 2025.12 | 파일럿 테스트, 피드백 수집, 개선 |
+
+### 📎[프로젝트 배포 주소](https://www.ahwhew.com/)
+
+### 💜[팀노션](https://even-taurus-17e.notion.site/Ah-whew-1c7815da1532435c81c35ff4a476c917?pvs=4)
+
+### 📎[피그마](https://www.figma.com/community/file/1322241717698834138/ah-whew)
+
+## 📦주요 기능
+
+### ⭐️ 글 작성 및 감정 분석
+
+- AI가 사용자 입력한 텍스트의 감정 분석 수행
+
+### ⭐️ 감정에 기반한 그림 생성 및 짤 추천
+
+- 감정 분석 결과를 기반으로 AI가 해당 감정에 어울리는 그림 출력 및 해당 감정과 어울리는 밈 추천
+
+### ⭐️ 결과값 공유
+
+- 링크를 통해 AI가 생성한 그림 공유 가능
+
+### ⭐️ 통계 및 분석 결과 제공
+
+- 감정 분석 결과에 대한 감정에 대한 성별/연령별 등의 통계 제공
+
+### ⭐️ 프로필
+
+- 사용자의 통계, 감정 분석 결과, 그림 및 밈 통계 제공
+- 감정 분석 결과에 따른 사용자별 상품 추천
+
+## 🤝 개발팀 소개
+
+### BACKEND
+
+|                                         김세은                                          |                                      김정윤                                      |                                        김효중                                        |                                         홍민영                                          |
+| :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| <img  width="100px" src="https://avatars.githubusercontent.com/u/139741006?s=60&v=4" /> | <img width="100px" src="https://avatars.githubusercontent.com/u/95032287?v=4" /> | <img width="100px" src="https://avatars.githubusercontent.com/u/71661011?s=60&v=4"/> |     <img width="100px" src="https://avatars.githubusercontent.com/u/65701100?v=4"/>     |
+|                       [@seeun0210](https://github.com/seeun0210)                        |           [@pipi-shortstocking](https://github.com/pipi-shortstocking)           |                      [@rlagywnd4](https://github.com/rlagywnd4)                      |                    [@HongMinYeong](https://github.com/HongMinYeong)                     |
+| 그림일기 AI 관련 기능 <br /> 프로필 대시보드 및 <br /> 추천상점 기능 <br /> docker&Https배포 |            회원정보 수정 <br /> 유효성 검사 <br /> 자동 별명생성 기능            |                       로그인 기능 <br /> 사용자 인증 관련 기능                       | 전체 유저 및 카테고리별 <br /> 평균값, 밈 랭킹 <br /> 통계 관련 기능 <br /> docker 배포 |
+
+### FRONTEND
+
+|                                      김상우                                       |                                      김지형                                       |                                      김태훈                                      |                                      이재욱                                      |                                      전수현                                      |
+| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+| <img  width="100px" src="https://avatars.githubusercontent.com/u/43949061?v=4" /> | <img width="100px" src="https://avatars.githubusercontent.com/u/113359008?v=4" /> | <img width="100px" src="https://avatars.githubusercontent.com/u/123625444?v=4"/> | <img width="100px" src="https://avatars.githubusercontent.com/u/100843910?v=4"/> | <img width="100px" src="https://avatars.githubusercontent.com/u/139740067?v=4"/> |
+|                    [@Sangwoo97](https://github.com/Sangwoo97)                     |                      [@sy33002](https://github.com/sy33002)                       |                     [@hoonsdev](https://github.com/hoonsdev)                     |                       [@22-JWL](https://github.com/22-JWL)                       |                       [@jjsh03](https://github.com/jjsh03)                       |
+|                          메인화면 <br /> 회원가입/로그인                          |                          회원 정보 수정<br /> 추천 상점                           |                                유저 감정 & 캘린더                                |                           감정 트렌드                            |                       일기 작성 & 결과 <br /> 에러 & 로딩                        |
+
+## 🖱 사용 기술
+
+
+### Back-end
+
+- 언어: <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+- 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon s3-569A31?style=flat-square&logo=Amazon s3&logoColor=white" /> <img src="https://img.shields.io/badge/KOMORAN-007396?style=flat-square&logo=KOMORAN&logoColor=white" />
+- Open API : <img src="https://img.shields.io/badge/CLOVA Sentiment-03C75A?style=flat-square&logo=Naver&logoColor=white" /> <img src="https://img.shields.io/badge/Papago Translation-03C75A?style=flat-square&logo=Naver&logoColor=white" /> <img src="https://img.shields.io/badge/Karlo-007396?style=flat-square&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/한국어 별명 생성기-007396?style=flat-square&logo=&logoColor=white" />
+
+### Server
+
+- 배포 도구: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+- 데이터베이스 서버: <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+- Https 설정 및 보안: <img src="https://img.shields.io/badge/AWS Lightsail-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS LoadBalancer-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Route 53-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+
+### Front-end
+
+- 언어: <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+- 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> ![image](https://github.com/sesac-ydp5-2nd-C/2nd-project-beatbay-back/assets/63192543/6e39c358-8bdc-43b7-90b4-562ed01caf3d) <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/AmCharts 5-007396?style=flat-square&logo=AmCharts 5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+- Open API : <img src="https://img.shields.io/badge/네이버 쇼핑검색 API-03C75A?style=flat-square&logo=Naver&logoColor=white" />
+
+
+## 🖥️ ERD
+
+![image](https://github.com/sesac-ydp5-2nd-C/2nd-project-beatbay-back/assets/95032287/415b6411-dfe1-48e2-9fb3-e06b42e3c6eb)
+
+## 📑 페이지 상세 내역
+
+<img alt="image" src="https://github.com/sesac-ydp5-2nd-C/2nd-project-beatbay-back/assets/95032287/7db2bd8a-2340-47d9-b5da-adcb9ad822af">
+
+## 🌟 화면 구성
+
+| 메인                                                                                                      | 로그인 & 회원가입                                                                                         |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| ![ahwhew8](https://github.com/sessac-3rd-team-A/FE/assets/139740067/ce4807f0-1cd2-47bd-9a4a-66db8a7e2628) | ![ahwhew1](https://github.com/sessac-3rd-team-A/FE/assets/139740067/d4593599-e537-420f-b079-746605296ff5) |
+
+| 일기 작성                                                                                                 | 작성 결과                                                                                                 |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| ![ahwhew2](https://github.com/sessac-3rd-team-A/FE/assets/139740067/d93cf879-03c6-473c-9195-5c770436dd7e) | ![ahwhew3](https://github.com/sessac-3rd-team-A/FE/assets/139740067/696eb8b1-2af5-4ca6-8bd3-210a9d54ecde) |
+
+| 감정 트렌드                                                                                               | 회원 정보 수정                                                                                            |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| ![ahwhew4](https://github.com/sessac-3rd-team-A/FE/assets/139740067/72d04b6b-a392-4522-8c85-ef381fada80e) | ![ahwhew7](https://github.com/sessac-3rd-team-A/FE/assets/139740067/41075a07-c7a5-4f85-b1d3-dd2013c26d32) |
+
+| 프로필 대시보드                                                                                           | 프로필 추천상점                                                                                           |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| ![ahwhew5](https://github.com/sessac-3rd-team-A/FE/assets/139740067/a2cedde1-a939-45ce-b583-2caa5c14cf79) | ![ahwhew6](https://github.com/sessac-3rd-team-A/FE/assets/139740067/60e03b02-0b02-4c6c-a859-5b99e9a27d7e) |
+
+
+## 📊 기대 효과
+
+1. **소상공인**: 합리적인 비용으로 법적 의무를 충족하면서 효율적인 매장 운영 가능
+2. **장애인 및 노약자**: 다양한 접근성 기능을 통해 키오스크 이용의 어려움 해소
+3. **일반 사용자**: 더 직관적이고 편리한 사용자 경험 제공
+4. **사회적 가치**: 디지털 포용성을 높여 정보 격차 해소에 기여
+
+## 📞 연락처
+
+- **이메일**: example@domain.com
+- **GitHub**: [Barion GitHub Organization](https://github.com/2025-Capstone-Project-Barion)
+
+---
+
+# 배리온(Barion): On-Device AI 기반 스마트 배리어프리 키오스크 플렛폼
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eacb4e32-7059-4a9c-a345-d5083d3ee58a" alt="Barion 로고" width="100"/>
+</p>
+
+> **Barrier-Free + Innovation(혁신): 배리어프리를 넘어 On-Device AI 기반의 더 스마트한 혁신적 솔루션**
+
 ## 2025 캡스톤 프로젝트
 - **개발자**: 2071449 이원준
 
