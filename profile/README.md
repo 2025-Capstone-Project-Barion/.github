@@ -122,11 +122,11 @@
 
 ## 🖥️ ERD
 
-![image](https://github.com/sesac-ydp5-2nd-C/2nd-project-beatbay-back/assets/95032287/415b6411-dfe1-48e2-9fb3-e06b42e3c6eb)
+![image]()
 
 ## 📑 페이지 상세 내역
 
-<img alt="image" src="https://github.com/sesac-ydp5-2nd-C/2nd-project-beatbay-back/assets/95032287/7db2bd8a-2340-47d9-b5da-adcb9ad822af">
+<img alt="image" src="">
 
 ## 🌟 화면 구성
 
