@@ -69,7 +69,7 @@
 | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img width="100px" src="https://avatars.githubusercontent.com/u/100843910?v=4"/> | <img width="100px" src="https://avatars.githubusercontent.com/u/134213412?v=4"/> |
 |                       [@22-JWL](https://github.com/22-JWL)                        |           [@koyy418](https://github.com/koyy418)           |
-| 그림일기 AI 관련 기능 <br /> 프로필 대시보드 및 <br /> 추천상점 기능 <br /> docker&Https배포 |            회원정보 수정 <br /> 유효성 검사 <br /> 자동 별명생성 기능            |
+| RESTful API 설계·구현 <br /> CI/CD <br /> docker&서버배포 |            로그인기능 및 스토어, 매출, 카테고리, 직원관리 기능            |
 
 ### FRONTEND
 
@@ -77,7 +77,7 @@
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img width="100px" src="https://avatars.githubusercontent.com/u/146986774?v=4"/> | <img width="100px" src="https://avatars.githubusercontent.com/u/107687577?v=4"/> |
 |                       [@WJLee22](https://github.com/WJLee22)                       |                       [@dmp100](https://github.com/dmp100)                       |
-|                           감정 트렌드                            |                       일기 작성 & 결과 <br /> 에러 & 로딩                        |
+|                           키오스크 구현, On-Device AI 개발, IoT 시스템 구축 및 HW 제어                            |                       UI/UX 및 안드로이드 개발                        |
 
 ## 🖱 사용 기술
 
