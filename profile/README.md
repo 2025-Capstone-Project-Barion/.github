@@ -122,11 +122,11 @@
 
 ## 🖥️ ERD
 
-![image]()
+![image](https://github.com/2025-Capstone-Project-Barion/.github/blob/d86e69fece3e61460e0f5028e1083c07c0d8e1a0/assets/erd.png)
 
 ## 📑 페이지 상세 내역
 
-<img alt="image" src="">
+<img alt="image" src="https://github.com/2025-Capstone-Project-Barion/.github/blob/d86e69fece3e61460e0f5028e1083c07c0d8e1a0/assets/erd.png">
 
 ## 🌟 화면 구성
 
