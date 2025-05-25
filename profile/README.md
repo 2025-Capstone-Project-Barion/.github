@@ -65,18 +65,18 @@
 
 ### BACKEND
 
-|                                         김세은                                          |                                      김정윤                                      |
+|                                         이재욱                                          |                                      고윤영                                      |
 | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| <img  width="100px" src="https://avatars.githubusercontent.com/u/139741006?s=60&v=4" /> | <img width="100px" src="https://avatars.githubusercontent.com/u/95032287?v=4" /> |
-|                       [@seeun0210](https://github.com/seeun0210)                        |           [@pipi-shortstocking](https://github.com/pipi-shortstocking)           |
+| <img width="100px" src="https://avatars.githubusercontent.com/u/100843910?v=4"/> | <img width="100px" src="https://avatars.githubusercontent.com/u/139740067?v=4"/> |
+|                       [@22-JWL](https://github.com/22-JWL)                        |           [@koyy418](https://github.com/koyy418)           |
 | 그림일기 AI 관련 기능 <br /> 프로필 대시보드 및 <br /> 추천상점 기능 <br /> docker&Https배포 |            회원정보 수정 <br /> 유효성 검사 <br /> 자동 별명생성 기능            |
 
 ### FRONTEND
 
-|                                      이재욱                                      |                                      전수현                                      |
+|                                      이원준                                      |                                      성규현                                      |
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img width="100px" src="https://avatars.githubusercontent.com/u/100843910?v=4"/> | <img width="100px" src="https://avatars.githubusercontent.com/u/139740067?v=4"/> |
-|                       [@22-JWL](https://github.com/22-JWL)                       |                       [@jjsh03](https://github.com/jjsh03)                       |
+|                       [@WJLee22](https://github.com/WJLee22)                       |                       [@dmp100](https://github.com/dmp100)                       |
 |                           감정 트렌드                            |                       일기 작성 & 결과 <br /> 에러 & 로딩                        |
 
 ## 🖱 사용 기술
