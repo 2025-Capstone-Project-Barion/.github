@@ -93,7 +93,7 @@
 | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img width="100px" src="https://avatars.githubusercontent.com/u/100843910?v=4"/> | <img width="100px" src="https://avatars.githubusercontent.com/u/134213412?v=4"/> |
 |                       [@22-JWL](https://github.com/22-JWL)                        |           [@koyy418](https://github.com/koyy418)           |
-| RESTful API 설계·구현 <br /> CI/CD <br /> docker&서버배포 |            로그인기능 <br />스토어 매출, 카테고리, 직원관리 기능            |
+| RESTful API 설계·구현 <br /> CI/CD, docker&서버배포 |            로그인기능 <br />스토어 매출, 카테고리,<br />직원관리 기능            |
 
 ### FRONTEND
 
