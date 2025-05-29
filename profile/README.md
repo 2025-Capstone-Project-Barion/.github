@@ -38,7 +38,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
-## 🎯 개발 동기 및 목적
+## 💡 개발 동기 및 목적
 
 - 소상공인의 배리어프리 키오스크 의무화 대응 부담 해소    
 
@@ -71,13 +71,13 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 <br>
 
 
-## 🏗️ System Architechture
+## 🏗️ 프로젝트 구조
 
 <img alt="image" src="https://github.com/2025-Capstone-Project-Barion/.github/blob/397694070e83494b813e03f8d15964043c971a12/assets/structure.png">
 
 <br>
 
-## 📸 Project Overview
+## 🗺️ 작품 소개 사진
 
 <img alt="image" src="https://github.com/user-attachments/assets/90890def-0691-454d-b538-ce6b82392526">
 
@@ -170,7 +170,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
-## 📦주요 기능
+## 🧩 주요 기능
 
 ### ⭐️ On-Device Voice AI: 음성 주문 시스템 (Picovoice)
 
