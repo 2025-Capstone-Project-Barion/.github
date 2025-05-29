@@ -1,4 +1,4 @@
-# Barion: On-Device AI 기반 스마트 배리어프리 키오스크 플렛폼
+# Barion: On-Device AI 기반 스마트 배리어프리 키오스크 플랫폼
 
 <!--
 <p align="center">
