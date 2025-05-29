@@ -201,7 +201,6 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 | Category | Technology |
 |----------|------------|
-
 | <div align="center">**Framework & Library**</div> | <div align="center">![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)<br>![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)</div> |
 | <div align="center">**Data Format**</div> | <div align="center">![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)</div> |
 | <div align="center">**Backend Language**</div> | <div align="center">![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)</div> |
@@ -216,6 +215,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 | <div align="center">**CI/CD**</div> | <div align="center">![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)</div> |
 | <div align="center">**Cloud Server**</div> | <div align="center">![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)</div> |
 | <div align="center">**Cloud Storage**</div> | <div align="center">![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)</div> |
+
 
 ### 🔹 Android App (Voice UI · Client)
 
