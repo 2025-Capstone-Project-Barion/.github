@@ -156,6 +156,56 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
+## 🗂️ Repositories
+
+> 아래 버튼을 클릭하면 각 파트별 레포지토리로 이동합니다
+
+<table align="center">
+  <tr>
+    <td><strong>🖥️ Kiosk Front-end System</strong><br>Raspberry Pi 기반 키오스크 시스템</td>
+    <td align="center">
+      <a href="https://github.com/2025-Capstone-Project-Barion/RaspberryPi-Kiosk" target="_blank">
+        <img src="https://img.shields.io/badge/RaspberryPi--Kiosk-Kiosk%20System-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🤖 On-Device AI System</strong><br>RubikPi 기반 YOLOv8 객체 탐지</td>
+    <td align="center">
+      <a href="https://github.com/2025-Capstone-Project-Barion/RubikPi-OnDevice-AI" target="_blank">
+        <img src="https://img.shields.io/badge/RubikPi--OnDevice--AI-On--Device%20AI-3253DC?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🔧 Actuator Control System</strong><br>Arduino 기반 리니어 액추에이터 제어</td>
+    <td align="center">
+      <a href="https://github.com/2025-Capstone-Project-Barion/Arduino-Actuator-Control" target="_blank">
+        <img src="https://img.shields.io/badge/Arduino--Actuator--Control-Actuator%20Control-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>📱 Owner Android App</strong><br>소상공인용 안드로이드 앱</td>
+    <td align="center">
+      <a href="https://github.com/2025-Capstone-Project-Barion/Android" target="_blank">
+        <img src="https://img.shields.io/badge/Android-Owner%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🧩 Backend API Server</strong><br>Spring Boot 기반 Backend 서버</td>
+    <td align="center">
+      <a href="https://github.com/2025-Capstone-Project-Barion/BackEnd" target="_blank">
+        <img src="https://img.shields.io/badge/BackEnd-Backend-007396?style=for-the-badge&logo=springboot&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
 ## 🌟 핵심 가치
 
 - **접근성(Accessibility)**: 여러 장애 유형(시각, 청각, 지체 등)의 소비자 및 노인 등 신체적 장벽을 넘어 누구나 쉽게 사용할 수 있는 서비스 제공
