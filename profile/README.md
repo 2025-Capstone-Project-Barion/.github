@@ -237,7 +237,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
-## 🧩 주요 기능
+## 🧩 프론트엔드 주요 기능
 
 ### ⭐️ On-Device Voice AI: 음성 주문 시스템 (Picovoice)
 
@@ -290,6 +290,29 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
   - 직원 관리(근태기록 통계, 시급관리 등)
 
 <br>
+
+## 🧩 백엔드 주요 기능
+
+### ⭐️ RESTful CRUD API
+- **Category**, **Employee**, **Menu**, **MenuOption**, **Order**, **Sales**, **Store** 등 주요 도메인에 대한 CRUD  
+- Spring Data JPA + Azure RDS(MySQL) 연동  
+- `@RestController` + `ResponseEntity` 기반 일관된 JSON 응답  
+
+### ⭐️ 이미지 업로드 & 관리 (AWS S3)
+- **Base64** 인코딩 이미지 → S3 업로드 → 공개 URL 반환  
+- `AmazonS3Client` 빈 생성 및 `S3Uploader` 컴포넌트에서 MultipartFile/​Base64 지원  
+- AWS S3 버킷 ACL, Region, 자격 증명 관리  
+
+### ⭐️ API 문서화 (OpenAPI / Swagger)
+- `springdoc-openapi` 스타터로 자동 문서 생성  
+- `@Operation` 어노테이션으로 각 엔드포인트 설명 추가  
+- 실행 후 `http://localhost:8080/swagger-ui.html` 에서 인터랙티브 테스트  
+
+### ⭐️ CI/CD & 컨테이너
+- **Docker**: 애플리케이션 컨테이너 이미지 작성 (Dockerfile)  
+- **GitHub Actions**: 빌드 → 테스트 → Docker 이미지 빌드·푸시 자동화  
+- 무중단 배포 파이프라인 구축
+
 
 
 ## 📊 기대 효과
