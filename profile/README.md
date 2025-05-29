@@ -94,9 +94,13 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <img alt="image" src="https://github.com/user-attachments/assets/90890def-0691-454d-b538-ce6b82392526">
 
-<br><br>
+<br>
 
+## 🖥️ ERD
 
+![image](https://github.com/2025-Capstone-Project-Barion/.github/blob/d86e69fece3e61460e0f5028e1083c07c0d8e1a0/assets/erd.png)
+
+<br>
 
 ## 🤝 개발팀 소개
 
@@ -328,11 +332,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
-## 🖥️ ERD
 
-![image](https://github.com/2025-Capstone-Project-Barion/.github/blob/d86e69fece3e61460e0f5028e1083c07c0d8e1a0/assets/erd.png)
-
-<br>
 
 <!--
 
