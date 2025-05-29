@@ -100,7 +100,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 ## 🤝 개발팀 소개
 
-### FRONTEND
+### 🔸 FRONTEND
 
 |                                      성규현                                      |
 | :------------------------------------------------------------------------------: |
@@ -109,7 +109,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 |                       UI/UX 및 안드로이드 개발                        |
 
 
-### AIoT · FRONTEND
+### 🔸 AIoT · FRONTEND
 
 |                                      이원준                                      |
 | :------------------------------------------------------------------------------: |
@@ -119,7 +119,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 
 
-### BACKEND
+### 🔸 BACKEND
 
 |                                         이재욱                                          |                                      고윤영                                      |
 | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
@@ -181,7 +181,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 ## 🛠 Tech Stack
 
-### Kiosk System (AIoT · FRONTEND)
+### 🔹 Kiosk System (AIoT · FRONTEND)
 
 |Category|Technology|
 |-|-|
@@ -199,18 +199,18 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 
 
-### Back-end
+### 🔹 Back-end
 
 - 언어: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 - 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
 
-### Server
+### 🔹 Server
 
 - 배포 도구: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 - 데이터베이스 서버: <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white">
 - 클라우드: <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
 
-### Front-end
+### 🔹 Front-end
 
 - 언어: <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 - 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> ![image](https://github.com/sesac-ydp5-2nd-C/2nd-project-beatbay-back/assets/63192543/6e39c358-8bdc-43b7-90b4-562ed01caf3d) <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/AmCharts 5-007396?style=flat-square&logo=AmCharts 5&logoColor=white" />
