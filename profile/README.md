@@ -232,7 +232,35 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 | <div align="center">**IDE**</div> | <div align="center">![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)</div> |
 | <div align="center">**Language**</div> | <div align="center">![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)</div> |
 
+#### 📁 폴더링 구조
 
+```
+📦com.example.barrion
+├─📂app                      # Application Layer
+├─📂core                     # Shared Components
+│  ├─📂designsystem
+│  └─📂base
+├─📂data                     # Data Layer (외부 의존성)
+│  ├─📂api
+│  ├─📂datasource
+│  ├─📂dto
+│  └─📂repository            # Repository 구현체
+├─📂domain                   # Domain Layer (비즈니스 로직)
+│  ├─📂model                 # 도메인 모델
+│  ├─📂repository            # Repository 인터페이스
+│  └─📂usecase               # 비즈니스 로직
+└─📂feature                  # Presentation Layer
+   ├─📂menu
+   │  ├─📂screen
+   │  │  ├─📂menulist
+   │  │  ├─📂addmenu
+   │  │  └─📂category
+   │  └─📂type               # MVI Pattern (Intent, State, Effect)
+   ├─📂order
+   ├─📂sales
+   ├─📂staff
+   └─📂auth
+```
 ## 🌟 핵심 가치
 
 - **접근성(Accessibility)**: 여러 장애 유형(시각, 청각, 지체 등)의 소비자 및 노인 등 신체적 장벽을 넘어 누구나 쉽게 사용할 수 있는 서비스 제공
