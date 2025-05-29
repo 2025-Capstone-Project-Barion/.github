@@ -100,7 +100,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 ## 🤝 개발팀 소개
 
-### 🔸 FRONTEND
+### 🔸 Android · FRONTEND
 
 |                                      성규현                                      |
 | :------------------------------------------------------------------------------: |
@@ -201,10 +201,10 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 | Category | Technology |
 |----------|------------|
-| <div align="center">**Backend Language**</div> | <div align="center">![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)</div> |
+
 | <div align="center">**Framework & Library**</div> | <div align="center">![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)<br>![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)</div> |
 | <div align="center">**Data Format**</div> | <div align="center">![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)</div> |
-| <div align="center">**Cloud Storage**</div> | <div align="center">![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)</div> |
+| <div align="center">**Backend Language**</div> | <div align="center">![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)</div> |
 
 ---
 
@@ -215,16 +215,15 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 | <div align="center">**Containerization**</div> | <div align="center">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)</div> |
 | <div align="center">**CI/CD**</div> | <div align="center">![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)</div> |
 | <div align="center">**Cloud Server**</div> | <div align="center">![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)</div> |
+| <div align="center">**Cloud Storage**</div> | <div align="center">![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)</div> |
 
+### 🔹 Android App (Voice UI · Client)
 
-### 🔹 Front-end
-
-- 언어: <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-- 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> ![image](https://github.com/sesac-ydp5-2nd-C/2nd-project-beatbay-back/assets/63192543/6e39c358-8bdc-43b7-90b4-562ed01caf3d) <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/AmCharts 5-007396?style=flat-square&logo=AmCharts 5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
-- Open API : <img src="https://img.shields.io/badge/네이버 쇼핑검색 API-03C75A?style=flat-square&logo=Naver&logoColor=white" />
-
-<br>
+| Category | Technology |
+|----------|------------|
+| <div align="center">**UI Framework**</div> | <div align="center">![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)</div> |
+| <div align="center">**IDE**</div> | <div align="center">![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)</div> |
+| <div align="center">**Language**</div> | <div align="center">![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)</div> |
 
 
 ## 🌟 핵심 가치
