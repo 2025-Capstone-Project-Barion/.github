@@ -76,6 +76,13 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
+## 🧾 판넬
+
+<p align="center">
+  <img alt="panel" src="https://github.com/user-attachments/assets/fb6b713a-b470-491a-a25c-17c30ef5cb9d" width="50%" />
+</p>
+
+<br>
 
 ## 🏗️ 프로젝트 구조
 
