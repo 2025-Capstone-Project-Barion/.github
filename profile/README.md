@@ -125,6 +125,14 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
+### 💜[팀노션](https://even-taurus-17e.notion.site/Ah-whew-1c7815da1532435c81c35ff4a476c917?pvs=4)
+
+<br>
+
+### 📎[피그마](https://www.figma.com/community/file/1322241717698834138/ah-whew)
+
+<br>
+
 ## 🗂️ Repositories
 
 > 아래 버튼을 클릭하면 각 파트별 레포지토리로 이동합니다
@@ -334,17 +342,6 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 | 개발 | 2025.05 - 2025.09 | 하드웨어 구성, 소프트웨어 개발, AI 모델 구현 |
 | 테스트 | 2025.09 - 2025.10 | 단위 테스트, 통합 테스트, 사용자 테스트 |
 | 배포 및 실증 | 2025.10 - 2025.12 | 파일럿 테스트, 피드백 수집, 개선 |
-
-<br>
-
-### 💜[팀노션](https://even-taurus-17e.notion.site/Ah-whew-1c7815da1532435c81c35ff4a476c917?pvs=4)
-
-<br>
-
-### 📎[피그마](https://www.figma.com/community/file/1322241717698834138/ah-whew)
-
-<br>
-
 
 
 <!--
