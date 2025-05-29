@@ -123,6 +123,8 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 |                       [@22-JWL](https://github.com/22-JWL)                        |           [@koyy418](https://github.com/koyy418)           |
 | RESTful API 설계·구현 <br /> CI/CD, docker&서버배포 |            로그인기능 <br />스토어 매출, 카테고리,<br />직원관리 기능            |
 
+## 🛠️협업 도구
+
 <br>
 
 ### 💜[팀노션](https://even-taurus-17e.notion.site/Ah-whew-1c7815da1532435c81c35ff4a476c917?pvs=4)
