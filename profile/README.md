@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eacb4e32-7059-4a9c-a345-d5083d3ee58a" alt="Barion 로고" width="100"/>
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A2FEF&height=200&section=header&text=Barion:%20Smart%20Barrier-Free%20Kiosk%20Platform&fontSize=34&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+</p>
 -->
 
 <p align="center">
