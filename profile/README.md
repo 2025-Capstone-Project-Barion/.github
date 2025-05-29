@@ -115,7 +115,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 | :------------------------------------------------------------------------------: |
 | <img width="100px" src="https://avatars.githubusercontent.com/u/146986774?v=4"/> |
 |                       [@WJLee22](https://github.com/WJLee22)                       |
-|     키오스크 구현, On-Device AI 개발 <br /> IoT 시스템 구축 및 HW 제어     |
+|     키오스크 구현, On-Device AI 개발, <br /> IoT 시스템 구축 및 HW 제어     |
 
 
 
