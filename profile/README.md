@@ -116,46 +116,6 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
-## 🛠 Tech Stack
-
-### Kiosk System (AIoT · FRONTEND)
-
-|Category|Technology|
-|-|-|
-|<div align="center">**On-Device AIoT Platform**</div>|<div align="center"><img src="https://img.shields.io/badge/RUBIK Pi 3-3253DC?style=for-the-badge&logo=sequelize&logoColor=white"> ➕ ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)<br><sup><strong>Rubik Pi: On-device AI / Raspberry Pi: Kiosk Controller</strong></sup></div>|
-|<div align="center">**Voice AI**</div>|<div align="center">![Porcupine](https://img.shields.io/badge/Porcupine-Wake_Word-7727A9?style=for-the-badge&logo=picovoice&logoColor=white) ![Rhino](https://img.shields.io/badge/Rhino-SLU-5500AA?style=for-the-badge&logo=picovoice&logoColor=white)</div>|
-|<div align="center">**Object Detection AI**</div>|<div align="center">![YOLOv8](https://img.shields.io/badge/YOLOv8-Quantized-111F68?style=for-the-badge&logo=yolo&logoColor=white)</div>|
-|<div align="center">**Hardware Controller**</div>|<div align="center">![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</div>|  
-|<div align="center">**Hardware**</div>|<div align="center">**🖥️ Touch Display / ⚙️ Linear Actuator**<br> **📷 Pi Camera Module 2 (IMX219)** </div>|  
-|<div align="center">**IoT Communication**</div>|<div align="center">![MQTT](https://img.shields.io/badge/MQTT-mosquitto-FF9900?style=for-the-badge&logo=mqtt&logoColor=white)</div>|
-|<div align="center">**Frontend Framework**</div>|<div align="center">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)</div>|
-|<div align="center">**Styling & Animation**</div>|<div align="center">![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring_creators&logoColor=white"> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"></div>|
-|<div align="center">**Programming Language**</div>|<div align="center">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</div>|
-
-<br>
-
-
-
-### Back-end
-
-- 언어: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-- 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
-
-### Server
-
-- 배포 도구: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-- 데이터베이스 서버: <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white">
-- 클라우드: <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
-
-### Front-end
-
-- 언어: <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-- 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> ![image](https://github.com/sesac-ydp5-2nd-C/2nd-project-beatbay-back/assets/63192543/6e39c358-8bdc-43b7-90b4-562ed01caf3d) <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/AmCharts 5-007396?style=flat-square&logo=AmCharts 5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
-- Open API : <img src="https://img.shields.io/badge/네이버 쇼핑검색 API-03C75A?style=flat-square&logo=Naver&logoColor=white" />
-
-<br>
-
 ## 🗂️ Repositories
 
 > 아래 버튼을 클릭하면 각 파트별 레포지토리로 이동합니다
@@ -202,6 +162,47 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
     </td>
   </tr>
 </table>
+
+<br>
+
+
+## 🛠 Tech Stack
+
+### Kiosk System (AIoT · FRONTEND)
+
+|Category|Technology|
+|-|-|
+|<div align="center">**On-Device AIoT Platform**</div>|<div align="center"><img src="https://img.shields.io/badge/RUBIK Pi 3-3253DC?style=for-the-badge&logo=sequelize&logoColor=white"> ➕ ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)<br><sup><strong>Rubik Pi: On-device AI / Raspberry Pi: Kiosk Controller</strong></sup></div>|
+|<div align="center">**Voice AI**</div>|<div align="center">![Porcupine](https://img.shields.io/badge/Porcupine-Wake_Word-7727A9?style=for-the-badge&logo=picovoice&logoColor=white) ![Rhino](https://img.shields.io/badge/Rhino-SLU-5500AA?style=for-the-badge&logo=picovoice&logoColor=white)</div>|
+|<div align="center">**Object Detection AI**</div>|<div align="center">![YOLOv8](https://img.shields.io/badge/YOLOv8-Quantized-111F68?style=for-the-badge&logo=yolo&logoColor=white)</div>|
+|<div align="center">**Hardware Controller**</div>|<div align="center">![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</div>|  
+|<div align="center">**Hardware**</div>|<div align="center">**🖥️ Touch Display / ⚙️ Linear Actuator**<br> **📷 Pi Camera Module 2 (IMX219)** </div>|  
+|<div align="center">**IoT Communication**</div>|<div align="center">![MQTT](https://img.shields.io/badge/MQTT-mosquitto-FF9900?style=for-the-badge&logo=mqtt&logoColor=white)</div>|
+|<div align="center">**Frontend Framework**</div>|<div align="center">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)</div>|
+|<div align="center">**Styling & Animation**</div>|<div align="center">![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring_creators&logoColor=white"> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"></div>|
+|<div align="center">**Programming Language**</div>|<div align="center">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</div>|
+
+<br>
+
+
+
+### Back-end
+
+- 언어: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+- 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
+
+### Server
+
+- 배포 도구: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+- 데이터베이스 서버: <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white">
+- 클라우드: <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+
+### Front-end
+
+- 언어: <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+- 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> ![image](https://github.com/sesac-ydp5-2nd-C/2nd-project-beatbay-back/assets/63192543/6e39c358-8bdc-43b7-90b4-562ed01caf3d) <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/AmCharts 5-007396?style=flat-square&logo=AmCharts 5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+- Open API : <img src="https://img.shields.io/badge/네이버 쇼핑검색 API-03C75A?style=flat-square&logo=Naver&logoColor=white" />
 
 <br>
 
