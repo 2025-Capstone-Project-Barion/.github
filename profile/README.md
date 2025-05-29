@@ -7,8 +7,9 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2142FF&height=140&section=header&text=Barion:%20Smart%20Barrier-Free%20Kiosk%20Platform&fontSize=25&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2142FF&height=200&section=header&text=Barion:%20Smart%20Barrier-Free%20Kiosk%20Platform&fontSize=34&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 </p>
+
 
 > **Barrier-Free + Innovation: 배리어프리를 넘어 On-Device AI 기반의 혁신적인 키오스크 솔루션**
 
