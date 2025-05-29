@@ -179,19 +179,30 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 - 간편한 음성 주문으로 직관적이고 편리한 사용자 경험 제공
   
 - 메뉴 탐색, 선택, 결제 등 전 과정 음성 안내 및 명령 가능
+  
+- **주문 전 과정 비접촉으로 주문가능**
 
 
-### ⭐️ Quantized YOLOv8: 실시간 객체 탐지 기반 자동 키오스크 높이 조절
+### ⭐️ Quantized YOLOv8: 실시간 객체 탐지 기반 키오스크 높이 자동 조절
 
-- 카메라와 YOLOv8 기반 객체 탐지를 통한 실시간 사용자 특성 파악
+- Qualcomm AI Hub를 통해 최적화한 Quantized YOLOv8 모델을 RubikPi(QCS6490 칩셋)에서 실시간 실행  
 
-- 휠체어 사용자 인식 시 자동으로 키오스크 높이 조정 (리니어 액추에이터 자동 제어)  
+- 기존의 서버 의존적 구조와 달리, On-Device AI에 특화된 RubikPi 보드에서 최적화된 YOLOv8 모델이 단독으로 빠르고 정확한 객체 탐지를 수행하며, 낮은 전력 소비와 짧은 응답 시간을 통해 실사용 환경에서의 효율성과 신뢰성을 동시에 확보  
 
-### ⭐️ IoT System
+- 휠체어 사용자 인식 시, 탐지 결과를 기반으로 시리얼 통신을 통해 Arduino 제어 -> 리니어 액추에이터를 이용한 키오스크 자동 높이 조절  
 
-- MQTT (Mosquitto)를 이용한 RubikPi, Raspberry Pi, Arduino 간 효율적인 메시지 통신  
+- GStreamer 및 QIM SDK를 활용한 안정적인 영상 처리 및 메타데이터 관리로 빠르고 정확한 On-Device AI 성능 확보
 
-- 안정적이고 신속한 키오스크 하드웨어 제어  
+  
+
+### ⭐️ IoT System: 하드웨어 제어 및 통신
+
+- MQTT(Mosquitto) & Serial 통신을 활용한 RubikPi, Raspberry Pi, Arduino 간 실시간 안정적인 데이터 통신
+
+- Arduino를 통해 리니어 액추에이터 직접 제어 (C 기반 시리얼 통신)
+
+- RubikPi가 탐지 데이터를 MQTT를 통해 Raspberry Pi에 전달하고, Arduino가 Raspberry Pi로부터 명령을 받아 키오스크 높이 조정 수행
+
 
 <br>
 
