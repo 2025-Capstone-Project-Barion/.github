@@ -1,4 +1,4 @@
-# 배리온(Barion): On-Device AI 기반 스마트 배리어프리 키오스크 플렛폼
+# Barion: On-Device AI 기반 스마트 배리어프리 키오스크 플렛폼
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eacb4e32-7059-4a9c-a345-d5083d3ee58a" alt="Barion 로고" width="100"/>
