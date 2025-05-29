@@ -197,18 +197,25 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
+### 🔹 Back-end (Spring · API)
 
+| Category | Technology |
+|----------|------------|
+| <div align="center">**Backend Language**</div> | <div align="center">![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)</div> |
+| <div align="center">**Framework & Library**</div> | <div align="center">![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)<br>![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)</div> |
+| <div align="center">**Data Format**</div> | <div align="center">![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)</div> |
+| <div align="center">**Cloud Storage**</div> | <div align="center">![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)</div> |
 
-### 🔹 Back-end
+---
 
-- 언어: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-- 프레임워크 및 라이브러리: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
+### 🔹 Server (Deployment · Infra)
 
-### 🔹 Server
+| Category | Technology |
+|----------|------------|
+| <div align="center">**Containerization**</div> | <div align="center">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)</div> |
+| <div align="center">**CI/CD**</div> | <div align="center">![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)</div> |
+| <div align="center">**Cloud Server**</div> | <div align="center">![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)</div> |
 
-- 배포 도구: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-- 데이터베이스 서버: <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white">
-- 클라우드: <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
 
 ### 🔹 Front-end
 
