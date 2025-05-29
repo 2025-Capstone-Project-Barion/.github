@@ -139,7 +139,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 > 아래 버튼을 클릭하면 각 파트별 레포지토리로 이동합니다
 
-<table align="center">
+<table>
   <tr>
     <td><strong>🖥️ Kiosk Front-end System</strong><br>Raspberry Pi 기반 키오스크 시스템</td>
     <td align="center">
@@ -185,7 +185,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 <br>
 
 
-## 🛠 기술스택
+## 🛠 기술 스택
 
 ### 🔹 Kiosk System (AIoT · FRONTEND)
 
