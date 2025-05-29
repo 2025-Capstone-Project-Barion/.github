@@ -327,6 +327,8 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
+<!--
+
 ## 🌟 화면 구성
 
 | 메인                                                                                                      | 로그인 & 회원가입                                                                                         |
@@ -462,4 +464,6 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 ---
 
-© 2025 Barion Project | All Rights Reserved
+-->
+
+> #### © 2025 Barion Project | All Rights Reserved
