@@ -8,13 +8,6 @@
 
 <br>
 
-## 🎬 시연 영상
- >  ### 🔗 아래 이미지를 클릭하면 YouTube 시연 영상으로 이동합니다
-
-[![Demonstration video](https://github.com/user-attachments/assets/dd163123-9af6-4a4f-b1e7-543bdceb7a1f)](https://youtu.be/RYNwx9m8ILg?si=2Fgz6oPIh2rs-gkl)
-
-<br>
-
 ## 📋 프로젝트 개요
 
 ### 문제 제기
@@ -22,6 +15,7 @@
 
 기존에 인건비 절감과 운영 효율성 강화를 위해 키오스크를 도입했지만, 현재는 "굳이 키오스크를 사용할 필요가 없다"는 의견이 많아지고 있는 상황입니다. 실제로 소상공인의 85% 이상이 변경 의무화에 대해 인지하지 못하고 있으며, 비용부담과 교체 과정의 불편함이 큰 문제가 되고 있습니다.
 
+<br>
 
 ## 🌬️ 프로젝트 소개
 
@@ -32,11 +26,26 @@
 
 <br>
 
+
+## 🎬 시연 영상
+ >  ### 🔗 아래 이미지를 클릭하면 YouTube 시연 영상으로 이동합니다
+
+[![Demonstration video](https://github.com/user-attachments/assets/dd163123-9af6-4a4f-b1e7-543bdceb7a1f)](https://youtu.be/RYNwx9m8ILg?si=2Fgz6oPIh2rs-gkl)
+
+<br>
+
+
 ## 🏗️ System Architechture
 
 <img alt="image" src="https://github.com/2025-Capstone-Project-Barion/.github/blob/397694070e83494b813e03f8d15964043c971a12/assets/structure.png">
 
 <br>
+
+## 📸 Project Overview
+
+<img alt="image" src="https://github.com/user-attachments/assets/90890def-0691-454d-b538-ce6b82392526">
+
+<br><br>
 
 > ### 📅 개발 일정
 
@@ -53,6 +62,8 @@
 ### 💜[팀노션](https://even-taurus-17e.notion.site/Ah-whew-1c7815da1532435c81c35ff4a476c917?pvs=4)
 
 ### 📎[피그마](https://www.figma.com/community/file/1322241717698834138/ah-whew)
+
+<br>
 
 ## 🌟 핵심 가치
 
