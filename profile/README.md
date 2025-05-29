@@ -93,8 +93,28 @@
   - 매장 테이블 배치
   - 직원 관리(근태기록 통계, 시급관리 등)
 
-
 ## 🤝 개발팀 소개
+
+
+
+### FRONTEND
+
+|                                      성규현                                      |
+| :------------------------------------------------------------------------------: |
+| <img width="100px" src="https://avatars.githubusercontent.com/u/107687577?v=4"/> |
+|                       [@dmp100](https://github.com/dmp100)                       |
+|                       UI/UX 및 안드로이드 개발                        |
+
+
+### AIoT · FRONTEND
+
+|                                      이원준                                      |
+| :------------------------------------------------------------------------------: |
+| <img width="100px" src="https://avatars.githubusercontent.com/u/146986774?v=4"/> |
+|                       [@WJLee22](https://github.com/WJLee22)                       |
+|     키오스크 구현, On-Device AI 개발 <br /> IoT 시스템 구축 및 HW 제어     |
+
+
 
 ### BACKEND
 
@@ -104,13 +124,7 @@
 |                       [@22-JWL](https://github.com/22-JWL)                        |           [@koyy418](https://github.com/koyy418)           |
 | RESTful API 설계·구현 <br /> CI/CD, docker&서버배포 |            로그인기능 <br />스토어 매출, 카테고리,<br />직원관리 기능            |
 
-### FRONTEND
-
-|                                      이원준                                      |                                      성규현                                      |
-| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| <img width="100px" src="https://avatars.githubusercontent.com/u/146986774?v=4"/> | <img width="100px" src="https://avatars.githubusercontent.com/u/107687577?v=4"/> |
-|                       [@WJLee22](https://github.com/WJLee22)                       |                       [@dmp100](https://github.com/dmp100)                       |
-|                           키오스크 구현, On-Device AI 개발 <br /> IoT 시스템 구축 및 HW 제어                            |                       UI/UX 및 안드로이드 개발                        |
+<br>
 
 ## 🖱 사용 기술
 
