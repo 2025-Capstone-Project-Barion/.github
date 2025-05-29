@@ -72,7 +72,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 ## 🎬 시연 영상
  >  ### 🔗 아래 이미지를 클릭하면 YouTube 시연 영상으로 이동합니다
 
-[![Demonstration video](https://github.com/user-attachments/assets/dd163123-9af6-4a4f-b1e7-543bdceb7a1f)](https://youtu.be/onPdb-vy2WQ)
+[![Demonstration video](https://github.com/user-attachments/assets/dd163123-9af6-4a4f-b1e7-543bdceb7a1f)](https://youtu.be/6-nIDs3ufg4?si=Jhty8wuMLy_zPsFU)
 
 <br>
 
