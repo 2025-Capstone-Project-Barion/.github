@@ -127,11 +127,11 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
 
 <br>
 
-### 💜[팀노션](https://even-taurus-17e.notion.site/Ah-whew-1c7815da1532435c81c35ff4a476c917?pvs=4)
+### 💜[팀노션](https://www.notion.so/2025-1-16cf0ae99f7d81dc99a7c08bfbf212fc)
 
 <br>
 
-### 📎[피그마](https://www.figma.com/community/file/1322241717698834138/ah-whew)
+### 📎[피그마]([https://www.figma.com/community/file/1322241717698834138/ah-whew](https://www.figma.com/design/FKKiir5PQTfIhsRLq0kldI/%EC%BA%A1%EC%8A%A4%ED%86%A4?node-id=1344-2934&t=8aIGm6Zjc0dVixZS-1))
 
 <br>
 
