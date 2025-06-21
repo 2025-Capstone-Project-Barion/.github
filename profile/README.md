@@ -159,7 +159,7 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
   <tr>
     <td><strong>🔧 Actuator Control System</strong><br>Arduino 기반 리니어 액추에이터 제어</td>
     <td align="center">
-      <a href="https://github.com/2025-Capstone-Project-Barion/Arduino-Actuator-Control" target="_blank">
+      <a href="https://github.com/2025-Capstone-Project-Barion/Arduino" target="_blank">
         <img src="https://img.shields.io/badge/Arduino--Actuator--Control-Actuator%20Control-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
       </a>
     </td>
