@@ -12,7 +12,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2142FF&height=200&section=header&text=Barion:%20Smart%20Barrier-Free%20Kiosk%20Platform&fontSize=34&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2142FF&height=230&section=header&text=Barion:%20Smart%20Barrier-Free%20Kiosk%20Platform&fontSize=36&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 </p>
 
 
@@ -73,6 +73,21 @@ Barion은 기존 키오스크의 구조를 유지하면서 최소한의 하드�
  >  ### 🔗 아래 이미지를 클릭하면 YouTube 시연 영상으로 이동합니다
 
 [![Demonstration video](https://github.com/user-attachments/assets/dd163123-9af6-4a4f-b1e7-543bdceb7a1f)](https://youtu.be/6-nIDs3ufg4?si=Jhty8wuMLy_zPsFU)
+
+<br>
+
+## 🖼️ 프로젝트 판넬
+
+<details>
+<summary><strong>🔽 【Barion 프로젝트 판넬 보기】</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6dfc3b51-1ea4-4242-a6e7-d74005d65b7d" alt="Barion 프로젝트 패널" width="70%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+</p>
+
+</details>
 
 <br>
 
